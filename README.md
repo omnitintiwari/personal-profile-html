@@ -1,4 +1,4 @@
-# personal profile in html  
+# personal profile in html css 
 a unique personal profile website made with html and css.  
 
 ## features  
