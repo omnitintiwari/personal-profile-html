@@ -1,0 +1,11 @@
+personal-profile-html/
+│
+├── index.html        # main html file
+├── style.css         # custom css for styling
+├── script.js         # optional javascript for interactivity
+├── assets/           # folder for images, icons, etc.
+│   ├── profile.jpg   # your profile picture
+│   ├── background.jpg
+│   └── favicon.ico   # favicon for the page
+├── readme.md         # readme file for repo info
+└── .gitignore        # if needed
